@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Umar Azmar
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: me@umarazmar.com
 copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+url: "https://www.umarazmar.com"
+twitter_username: umarazmar
+github_username:  umarazmar
+facebook_username:  umarazmar
+email_username:  me@umarazmar.com
 
 # Build settings
 markdown: kramdown
